@@ -1,7 +1,5 @@
 # Drum-Kit
 
-# Drum Kit Application
-
 ## Project Description
 
 ### Overview
@@ -36,7 +34,7 @@ The Drum Kit Application is an interactive web-based project that simulates a dr
      ```
 
 ### Live Demo
-Check out the live demo of the Drum Kit Application [here](https://yourusername.github.io/drum-kit-application).
+Check out the live demo of the Drum Kit Application [here](https://bluebell2505.github.io/Drum-Kit/).
 
 ### Project Structure
 ```
