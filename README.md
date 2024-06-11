@@ -67,7 +67,7 @@ Contributions are welcome! If you have any ideas to improve the application or f
 ### Contact
 For any inquiries or feedback, please contact:
 - **Email:** vdixit2505@gmail.com
-- **GitHub:** [yourusername](https://github.com/bluebell2505)
+- **GitHub:** [bluebell2505](https://github.com/bluebell2505)
 
 ---
 
